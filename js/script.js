@@ -43,7 +43,7 @@ ScrollReveal().reveal('.home-content h1, .about-img', {origin: 'left'});
 
 
 const typed = new Typed('.multiple-text',{
-    strings: ['Full-stack Web Developer', 'Graphic Designer', 'Video Editor'],
+    strings: ['Machine Learning Engineer', 'Data Scientist', 'Full-stack Web Developer', 'Video Editor'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
